@@ -1,0 +1,20 @@
+item{
+ id:1
+ name: 'text_graffiti'
+}
+item{
+ id:2
+ name: 'Throwup Graffiti'
+}
+item{
+ id:3
+ name: 'Throwup Alphabet'
+}
+item{
+ id:4
+ name: 'Wildstyle Graffiti'
+}
+item{
+ id:5
+ name: 'Wildstyle Alphabet'
+}
